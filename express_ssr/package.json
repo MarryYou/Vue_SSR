@@ -17,7 +17,7 @@
     "cross-env": "^5.0.1",
     "element-ui": "^2.2.2",
     "express": "^4.15.3",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "less": "^3.0.1",
     "less-loader": "^4.1.0",
     "moment": "^2.21.0",
